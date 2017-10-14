@@ -10,7 +10,7 @@ namespace TP1_IGL
     {
         static void Main(string[] args)
         {
-            int[] T1 = new int[20] { 5,4,1,9,10,600, 8,17, 33,92, 55, 54, 91, 99, 710, -6, 80, 7, 3, 2 };
+            int[] T1 = new int[30] { 5,4,1,9,10,600, 8,17, 33,92, 55, 54, 91, 99, 710, -6, 80, 7, 3, 2,40,41,65,28,19,22,13,31,95,15};
             int[] T2 = new int[20];
             VectorHelper v = new VectorHelper();
             v.TRierVecteur(T1);

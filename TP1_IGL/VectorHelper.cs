@@ -58,6 +58,13 @@ namespace TP1_IGL
                 vecteuratriter[i] = vecteuratriter[i] - n;
             }
         }
+        public void Opposee(int [] vecteuratriter)
+        {
+            for (int i = 0; i < vecteuratriter.Length; i++)
+            {
+                vecteuratriter[i] = vecteuratriter[i] * -1;
+            }
+        }
             /* public int[] getElements()
               {
                  return elements; 
