@@ -1,0 +1,6 @@
+E:\C#\TP1_IGL\TP1_IGL\bin\Debug\TP1_IGL.exe.config
+E:\C#\TP1_IGL\TP1_IGL\bin\Debug\TP1_IGL.exe
+E:\C#\TP1_IGL\TP1_IGL\bin\Debug\TP1_IGL.pdb
+E:\C#\TP1_IGL\TP1_IGL\obj\Debug\TP1_IGL.csprojResolveAssemblyReference.cache
+E:\C#\TP1_IGL\TP1_IGL\obj\Debug\TP1_IGL.exe
+E:\C#\TP1_IGL\TP1_IGL\obj\Debug\TP1_IGL.pdb
