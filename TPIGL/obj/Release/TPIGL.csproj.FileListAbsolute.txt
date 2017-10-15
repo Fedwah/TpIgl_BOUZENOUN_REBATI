@@ -1,0 +1,5 @@
+E:\c#\TPIGL\TPIGL\bin\Release\TPIGL.exe.config
+E:\c#\TPIGL\TPIGL\bin\Release\TPIGL.exe
+E:\c#\TPIGL\TPIGL\bin\Release\TPIGL.pdb
+E:\c#\TPIGL\TPIGL\obj\Release\TPIGL.exe
+E:\c#\TPIGL\TPIGL\obj\Release\TPIGL.pdb
