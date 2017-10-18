@@ -8,11 +8,10 @@ namespace TP1_IGL
 {
     class VectorHelper
     {
-       // int[] elements;
-        /*int TAille;*/
+      
         public VectorHelper()
         {
-           // elements = new int[100];
+          
 
         }
         public void TRierVecteur(int[] vecteuratrier)//Tri par bulle
@@ -65,9 +64,6 @@ namespace TP1_IGL
                 vecteuratriter[i] = vecteuratriter[i] * -1;
             }
         }
-            /* public int[] getElements()
-              {
-                 return elements; 
-              }    */
-        }
+
+    }
 }
