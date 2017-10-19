@@ -1,6 +1,18 @@
-E:\c#\TPIGL\TPIGL\bin\Debug\TPIGL.exe.config
-E:\c#\TPIGL\TPIGL\bin\Debug\TPIGL.exe
-E:\c#\TPIGL\TPIGL\bin\Debug\TPIGL.pdb
-E:\c#\TPIGL\TPIGL\obj\Debug\TPIGL.exe
-E:\c#\TPIGL\TPIGL\obj\Debug\TPIGL.pdb
-E:\c#\TPIGL\TPIGL\obj\Debug\TPIGL.csprojResolveAssemblyReference.cache
+E:\C#\TP1_IGL\TP1_IGL\bin\Debug\TP1_IGL.exe.config
+E:\C#\TP1_IGL\TP1_IGL\bin\Debug\TP1_IGL.exe
+E:\C#\TP1_IGL\TP1_IGL\bin\Debug\TP1_IGL.pdb
+E:\C#\TP1_IGL\TP1_IGL\obj\Debug\TP1_IGL.csprojResolveAssemblyReference.cache
+E:\C#\TP1_IGL\TP1_IGL\obj\Debug\TP1_IGL.exe
+E:\C#\TP1_IGL\TP1_IGL\obj\Debug\TP1_IGL.pdb
+C:\Users\MAISON XP\Documents\MonTpIGL\TP1_IGL\TP1_IGL\bin\Debug\TP1_IGL.exe.config
+C:\Users\MAISON XP\Documents\MonTpIGL\TP1_IGL\TP1_IGL\obj\Debug\TP1_IGL.exe
+C:\Users\MAISON XP\Documents\MonTpIGL\TP1_IGL\TP1_IGL\obj\Debug\TP1_IGL.pdb
+C:\Users\MAISON XP\Documents\MonTpIGL\TP1_IGL\TP1_IGL\bin\Debug\TP1_IGL.exe
+C:\Users\MAISON XP\Documents\MonTpIGL\TP1_IGL\TP1_IGL\bin\Debug\TP1_IGL.pdb
+C:\Users\MAISON XP\Documents\MonTpIGL\TP1_IGL\TP1_IGL\obj\Debug\TP1_IGL.csprojResolveAssemblyReference.cache
+C:\Users\MAISON XP\Documents\MonTpIGL\TPIGL\TPIGL\bin\Debug\TP1_IGL.exe.config
+C:\Users\MAISON XP\Documents\MonTpIGL\TPIGL\TPIGL\bin\Debug\TP1_IGL.exe
+C:\Users\MAISON XP\Documents\MonTpIGL\TPIGL\TPIGL\bin\Debug\TP1_IGL.pdb
+C:\Users\MAISON XP\Documents\MonTpIGL\TPIGL\TPIGL\obj\Debug\TPIGL.csprojResolveAssemblyReference.cache
+C:\Users\MAISON XP\Documents\MonTpIGL\TPIGL\TPIGL\obj\Debug\TP1_IGL.exe
+C:\Users\MAISON XP\Documents\MonTpIGL\TPIGL\TPIGL\obj\Debug\TP1_IGL.pdb
