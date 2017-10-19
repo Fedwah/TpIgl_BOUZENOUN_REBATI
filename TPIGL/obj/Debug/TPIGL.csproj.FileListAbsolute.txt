@@ -1,0 +1,6 @@
+E:\c#\TPIGL\TPIGL\bin\Debug\TPIGL.exe.config
+E:\c#\TPIGL\TPIGL\bin\Debug\TPIGL.exe
+E:\c#\TPIGL\TPIGL\bin\Debug\TPIGL.pdb
+E:\c#\TPIGL\TPIGL\obj\Debug\TPIGL.exe
+E:\c#\TPIGL\TPIGL\obj\Debug\TPIGL.pdb
+E:\c#\TPIGL\TPIGL\obj\Debug\TPIGL.csprojResolveAssemblyReference.cache
