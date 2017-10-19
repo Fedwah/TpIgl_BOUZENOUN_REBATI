@@ -1,0 +1,9 @@
+C:\Users\MAISON XP\Documents\tpIgl\tpIgl\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\MAISON XP\Documents\tpIgl\tpIgl\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\MAISON XP\Documents\tpIgl\tpIgl\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\MAISON XP\Documents\tpIgl\tpIgl\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\MAISON XP\Documents\tpIgl\tpIgl\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\MAISON XP\Documents\tpIgl\tpIgl\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\MAISON XP\Documents\tpIgl\tpIgl\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\MAISON XP\Documents\tpIgl\tpIgl\UnitTestProject1\bin\Debug\TP1_IGL.exe
+C:\Users\MAISON XP\Documents\tpIgl\tpIgl\UnitTestProject1\bin\Debug\TP1_IGL.pdb
