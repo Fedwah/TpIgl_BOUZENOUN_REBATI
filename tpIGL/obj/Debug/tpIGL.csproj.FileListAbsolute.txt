@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+D:\FEDOUA\tpIGL\tpIGL\bin\Debug\tpIGL.exe.config
+=======
 D:\tpIGL\tpIGL\bin\Debug\tpIGL.exe.config
 D:\tpIGL\tpIGL\obj\Debug\tpIGL.csprojResolveAssemblyReference.cache
+>>>>>>> origin/partie_fedwa
