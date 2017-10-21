@@ -1,6 +1,9 @@
-<<<<<<< HEAD
 D:\FEDOUA\tpIGL\tpIGL\bin\Debug\tpIGL.exe.config
 =======
 D:\tpIGL\tpIGL\bin\Debug\tpIGL.exe.config
 D:\tpIGL\tpIGL\obj\Debug\tpIGL.csprojResolveAssemblyReference.cache
->>>>>>> origin/partie_fedwa
+D:\Fedoua\tpIGL\tpIGL\bin\Debug\tpIGL.exe
+D:\Fedoua\tpIGL\tpIGL\bin\Debug\tpIGL.pdb
+D:\Fedoua\tpIGL\tpIGL\obj\Debug\tpIGL.exe
+D:\Fedoua\tpIGL\tpIGL\obj\Debug\tpIGL.pdb
+D:\Fedoua\tpIGL\tpIGL\obj\Debug\tpIGL.csprojResolveAssemblyReference.cache

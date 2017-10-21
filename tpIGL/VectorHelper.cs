@@ -8,7 +8,9 @@ namespace tpIGL
 {
     class VectorHelper
     {
-<<<<<<< HEAD
+        private int max;
+        private int min;
+
         public void TRierVecteur(int[] vecteuratrier)//Tri par bulle
         {
 
@@ -64,12 +66,9 @@ namespace tpIGL
                 vecteuratriter[i] = vecteuratriter[i] * -1;
             }
         }
-    }
-}
-=======
+    
 
-            private int max;
-            private int min;
+           
 
          
             public int[] Som2Vect(int[] vect1, int[] vect2)
@@ -143,4 +142,4 @@ namespace tpIGL
     }
 
 
->>>>>>> origin/partie_fedwa
+
