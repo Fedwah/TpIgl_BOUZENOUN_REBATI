@@ -8,3 +8,5 @@ D:\Fedoua\tpIGL\tpIGL\obj\Debug\tpIGL.exe
 D:\Fedoua\tpIGL\tpIGL\obj\Debug\tpIGL.pdb
 D:\Fedoua\tpIGL\tpIGL\obj\Debug\tpIGL.csprojResolveAssemblyReference.cache
 D:\Fedoua\tpIGL\tpIGL\bin\Debug\tpIGL.XML
+D:\Fedoua\tpIGL\tpIGL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Fedoua\tpIGL\tpIGL\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
