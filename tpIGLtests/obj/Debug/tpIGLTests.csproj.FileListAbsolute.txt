@@ -1,0 +1,10 @@
+D:\Fedoua\tpIGL\tpIGLTests\bin\Debug\tpIGLTests.dll
+D:\Fedoua\tpIGL\tpIGLTests\bin\Debug\tpIGLTests.pdb
+D:\Fedoua\tpIGL\tpIGLTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Fedoua\tpIGL\tpIGLTests\bin\Debug\tpIGL.exe
+D:\Fedoua\tpIGL\tpIGLTests\bin\Debug\tpIGL.pdb
+D:\Fedoua\tpIGL\tpIGLTests\bin\Debug\tpIGL.xml
+D:\Fedoua\tpIGL\tpIGLTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Fedoua\tpIGL\tpIGLTests\obj\Debug\tpIGLTests.csprojResolveAssemblyReference.cache
+D:\Fedoua\tpIGL\tpIGLTests\obj\Debug\tpIGLTests.dll
+D:\Fedoua\tpIGL\tpIGLTests\obj\Debug\tpIGLTests.pdb
