@@ -17,8 +17,6 @@
         <member name="T:tpIGL.VectorHelper">
             <summary>
             la classe VectorHelper contient des methodes sur les vecteurs
-            et deux attributs le max d un vecteur et son min ces derniers seront calculés par la methode
-            maxMinOfTable
             </summary>
         </member>
         <member name="M:tpIGL.VectorHelper.TRierVecteur(System.Int32[])">
@@ -57,7 +55,7 @@
         <member name="M:tpIGL.VectorHelper.Som2Vect(System.Int32[],System.Int32[])">
             <summary>
             la methode som2vecteur somme deux tableaux a une dimension 
-            le resultat c est un tabeau ou chaque case et la somme des deux cases qui ont le meme indexe que cette derniere.
+            le resultat c est un tabeau ou chaque case est la somme des deux cases qui ont le meme indexe que cette derniere.
             Une exeption exepTai est declenchée si vous essayez de sommer deux tableaux de taille differente 
             et une autre exeption si vous mettez un vecteur nulle en entré
             </summary>
@@ -75,21 +73,10 @@
         <member name="M:tpIGL.VectorHelper.maxMinOfTable(System.Int32[])">
             <summary>
             la methode maxMinOfTable donne la valeur maximale et minimale du tableau en entré
-            et initialise les parametres max et min de la classe VectorHelper
+            retourne un tableau de taille 2 ou la premiere case represente le max et la deuxième
+            le min
             </summary>
             <param name="table"></param>
-        </member>
-        <member name="M:tpIGL.VectorHelper.getMax">
-            <summary>
-             getMax retourne la valeur du parametre max
-             </summary>
-             <returns></returns>
-        </member>
-        <member name="M:tpIGL.VectorHelper.getMin">
-            <summary>
-            getMin retourne la valeur du parametre min
-            </summary>
-            <returns></returns>
         </member>
     </members>
 </doc>
