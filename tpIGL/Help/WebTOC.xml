@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="f483f928-c89b-4da1-821a-fc64c6a6d8d1" Title="tpIGL" Url="html/b9872e18-803a-8985-79e5-6dc5d0e39f72.htm">
-    <HelpTOCNode Id="88ff0755-ef48-4211-b1e1-322bd4100ce3" Title="exepTai Classe" Url="html/cc41e33b-f568-ad93-b238-f24cd98808af.htm">
+  <HelpTOCNode Id="45641b76-ef75-4019-8f45-682f336d5b9e" Title="tpIGL" Url="html/b9872e18-803a-8985-79e5-6dc5d0e39f72.htm">
+    <HelpTOCNode Id="e112fb5d-c7a2-49f4-b9b1-9e27d880ce90" Title="exepTai Classe" Url="html/cc41e33b-f568-ad93-b238-f24cd98808af.htm">
       <HelpTOCNode Title="exepTai Constructeur " Url="html/bfb45344-7287-c747-b7cc-5936984fe316.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="10a23040-9602-46d6-b11c-cf1421deded5" Title="Program Classe" Url="html/e276ed1b-3ebe-d1dd-7fb2-2bb8a4e5d6e1.htm">
+    <HelpTOCNode Id="593d0aca-7aba-44f4-93ff-fd6dd0a50f08" Title="Program Classe" Url="html/e276ed1b-3ebe-d1dd-7fb2-2bb8a4e5d6e1.htm">
       <HelpTOCNode Title="Program Constructeur " Url="html/c90d3977-d29f-68aa-0568-423b28b1b3b3.htm" />
-      <HelpTOCNode Id="cfd9828c-51ab-4e55-af7c-8a888013f3aa" Title="Program M&#233;thodes" Url="html/2d26dcf3-dea0-34c6-995c-d5168d8eb0ed.htm">
+      <HelpTOCNode Id="f9fb6aec-aea9-4cbf-b4da-eb03981638f6" Title="Program M&#233;thodes" Url="html/2d26dcf3-dea0-34c6-995c-d5168d8eb0ed.htm">
         <HelpTOCNode Title="Main M&#233;thode " Url="html/363100a3-cf10-1432-74b8-5d51f8d368f4.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e69724fb-11fb-4232-8fe0-1f5c2dc76d9b" Title="VectorHelper Classe" Url="html/094778d0-944f-d9fe-203e-db003154e8fa.htm">
+    <HelpTOCNode Id="03deab74-4dd0-4365-a086-abfa29ddc3eb" Title="VectorHelper Classe" Url="html/094778d0-944f-d9fe-203e-db003154e8fa.htm">
       <HelpTOCNode Title="VectorHelper Constructeur " Url="html/764b812f-a620-bb63-d867-9576a40cb290.htm" />
-      <HelpTOCNode Id="1c229355-a8c8-4520-a1ab-3b9024f467ed" Title="VectorHelper M&#233;thodes" Url="html/3677a66e-b094-51a0-4263-2ccc772de655.htm">
+      <HelpTOCNode Id="cdacdcfd-dcd7-4133-a926-056ea1e811b8" Title="VectorHelper M&#233;thodes" Url="html/3677a66e-b094-51a0-4263-2ccc772de655.htm">
         <HelpTOCNode Title="ADdn M&#233;thode " Url="html/c3274483-ce3e-51c2-de91-5786c355e7df.htm" />
         <HelpTOCNode Title="getMax M&#233;thode " Url="html/79dcc511-2869-eadb-38ce-866730b30a38.htm" />
         <HelpTOCNode Title="getMin M&#233;thode " Url="html/d5780688-fd1b-b124-0a95-58b9aee96869.htm" />
@@ -25,7 +25,7 @@
         <HelpTOCNode Title="SOustrairen M&#233;thode " Url="html/71f56008-ae3e-1ae1-9eec-05badf029a42.htm" />
         <HelpTOCNode Title="TRierVecteur M&#233;thode " Url="html/379c0c4c-8364-3462-399a-38d4cd4466eb.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="6e44b176-da93-4d28-8749-0eb5ab9c1e67" Title="VectorHelper Champs" Url="html/22615a31-f469-8e3a-73a5-42f5cd089882.htm">
+      <HelpTOCNode Id="934088f6-a1b5-4296-bdee-facc7aa8c7d2" Title="VectorHelper Champs" Url="html/22615a31-f469-8e3a-73a5-42f5cd089882.htm">
         <HelpTOCNode Title="max Champ" Url="html/e203c064-d7ab-c952-19d2-9732c067f1ee.htm" />
         <HelpTOCNode Title="min Champ" Url="html/f85dff44-7f02-a1de-c946-e5152b619b2a.htm" />
       </HelpTOCNode>

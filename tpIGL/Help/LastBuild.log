@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2017.5.15.0" projectFile="D:\Fedoua\tpIGL\tpIGL\helpTpIGL.shfbproj" started="21/10/2017 14:41:46">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2017.5.15.0" projectFile="D:\Fedoua\tpIGL\tpIGL\helpTpIGL.shfbproj" started="21/10/2017 15:50:54">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -28,16 +28,16 @@ Copying XML comments files
 <buildStep step="GenerateSharedContent">
 Generating shared content files (fr-FR, Fran&#231;ais (France))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00,0070
+</plugIn>    Last step completed in 00:00:00,0490
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00,0010
+    Last step completed in 00:00:00,0110
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - GenerateRefInfo.proj]
-La g‚n‚ration a d‚marr‚ 21/10/2017 14:41:48.
+La g‚n‚ration a d‚marr‚ 21/10/2017 15:50:57.
 Projet &quot;D:\Fedoua\tpIGL\tpIGL\Help\Working\GenerateRefInfo.proj&quot; sur le noud 1 (cibles par d‚faut).
 PrepareForBuild:
   Cr‚ation du r‚pertoire &quot;obj\Debug\&quot;.
@@ -57,13 +57,13 @@ G‚n‚ration du projet &quot;D:\Fedoua\tpIGL\tpIGL\Help\Working\GenerateRefInf
 
 La g‚n‚ration a r‚ussi.
 
-Temps ‚coul‚ 00:00:02.02
-    Last step completed in 00:00:02,4261
+Temps ‚coul‚ 00:00:02.25
+    Last step completed in 00:00:02,8422
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - TransformManifest.proj]
-La g‚n‚ration a d‚marr‚ 21/10/2017 14:41:50.
+La g‚n‚ration a d‚marr‚ 21/10/2017 15:51:00.
 Projet &quot;D:\Fedoua\tpIGL\tpIGL\Help\Working\TransformManifest.proj&quot; sur le noud 1 (cibles par d‚faut).
 TransformManifest:
   XslTransform (v2017.5.15.0)
@@ -83,17 +83,17 @@ G‚n‚ration du projet &quot;D:\Fedoua\tpIGL\tpIGL\Help\Working\TransformManif
 
 La g‚n‚ration a r‚ussi.
 
-Temps ‚coul‚ 00:00:00.92
-    Last step completed in 00:00:01,2811
+Temps ‚coul‚ 00:00:01.26
+    Last step completed in 00:00:01,6461
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00,0100
+    Last step completed in 00:00:00,0590
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
 No additional content to copy
-    Last step completed in 00:00:00,0000
+    Last step completed in 00:00:00,0170
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
@@ -102,7 +102,7 @@ Merging conceptual and additional tables of contents...
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - GenerateIntermediateTOC.proj]
-La g‚n‚ration a d‚marr‚ 21/10/2017 14:41:51.
+La g‚n‚ration a d‚marr‚ 21/10/2017 15:51:02.
 Projet &quot;D:\Fedoua\tpIGL\tpIGL\Help\Working\GenerateIntermediateTOC.proj&quot; sur le noud 1 (cibles par d‚faut).
 GenerateIntermediateTOC:
   XslTransform (v2017.5.15.0)
@@ -113,26 +113,26 @@ G‚n‚ration du projet &quot;D:\Fedoua\tpIGL\tpIGL\Help\Working\GenerateInterm
 
 La g‚n‚ration a r‚ussi.
 
-Temps ‚coul‚ 00:00:00.30
+Temps ‚coul‚ 00:00:00.33
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00,6620
+    Last step completed in 00:00:00,7840
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00,2860
+    Last step completed in 00:00:00,4580
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
 D:\Fedoua\tpIGL\tpIGL\Help\Working\sandcastle.config
   Updating reference topic configurations.
   No conceptual content.  Removing conceptual content components.
-    Last step completed in 00:00:00,0110
+    Last step completed in 00:00:00,0350
 </buildStep>
 <buildStep step="BuildTopics">
 Building help topics...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - BuildTopics.proj]
-La g‚n‚ration a d‚marr‚ 21/10/2017 14:41:52.
+La g‚n‚ration a d‚marr‚ 21/10/2017 15:51:03.
 Projet &quot;D:\Fedoua\tpIGL\tpIGL\Help\Working\BuildTopics.proj&quot; sur le noud 1 (cibles par d‚faut).
 BuildTopics:
   BuildAssembler (v2017.5.15.0)
@@ -169,12 +169,12 @@ G‚n‚ration du projet &quot;D:\Fedoua\tpIGL\tpIGL\Help\Working\BuildTopics.pr
 
 La g‚n‚ration a r‚ussi.
 
-Temps ‚coul‚ 00:00:15.61
-    Last step completed in 00:00:16,0929
+Temps ‚coul‚ 00:00:13.98
+    Last step completed in 00:00:14,4458
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00,0030
+    Last step completed in 00:00:00,0040
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -190,7 +190,7 @@ Processed 23 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to D:\Fedoua\tpIGL\tpIGL\Help\Working\WebKI.xml
 Saving website table of contents to D:\Fedoua\tpIGL\tpIGL\Help\Working\WebTOC.xml
-    Last step completed in 00:00:00,4040
+    Last step completed in 00:00:00,5460
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -272,32 +272,32 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; D:\Fedoua\tpIGL\tpIGL\Help\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\clipboard.min.js -&gt; D:\Fedoua\tpIGL\tpIGL\Help\Working\Output\Website\scripts\clipboard.min.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; D:\Fedoua\tpIGL\tpIGL\Help\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:00,1740
+    Last step completed in 00:00:00,3090
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
-    Last step completed in 00:00:00,0000
+    Last step completed in 00:00:00,0040
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:00,0890
+</plugIn>    Last step completed in 00:00:00,2440
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
 Copied 131 files for the website content
-    Last step completed in 00:00:00,1360
+    Last step completed in 00:00:00,2830
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00,0730
+    Last step completed in 00:00:00,0870
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 21/10/2017 14:42:09.  Total time: 00:00:23,0363
+Build completed successfully at 21/10/2017 15:51:19.  Total time: 00:00:24,0474
 
 </buildStep>
 </shfbBuild>

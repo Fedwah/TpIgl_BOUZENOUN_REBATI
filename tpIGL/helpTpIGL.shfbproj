@@ -19,7 +19,8 @@
     <Language>fr-FR</Language>
     <DocumentationSources>
       <DocumentationSource sourceFile="bin\Debug\tpIGL.exe" />
-<DocumentationSource sourceFile="bin\Debug\tpIGL.xml" /></DocumentationSources>
+      <DocumentationSource sourceFile="bin\Debug\tpIGL.xml" />
+    </DocumentationSources>
     <SaveComponentCacheCapacity>100</SaveComponentCacheCapacity>
     <BuildAssemblerVerbosity>OnlyWarningsAndErrors</BuildAssemblerVerbosity>
     <HelpFileFormat>Website</HelpFileFormat>
