@@ -6,11 +6,21 @@ using System.Threading.Tasks;
 
 namespace tpIGL
 {
+    /// <summary>
+    /// la classe VectorHelper contient des methodes sur les vecteurs
+    /// et deux attributs le max d un vecteur et son min ces derniers seront calculés par la methode
+    /// maxMinOfTable
+    /// </summary>
     class VectorHelper
     {
+        
         private int max;
         private int min;
 
+        /// <summary>
+        ///  TRierVecteur : cette methode trie un tableau à 1 dimension en utilisant le trie par bulle
+        /// </summary>
+        /// <param name="vecteuratrier"></param>
         public void TRierVecteur(int[] vecteuratrier)//Tri par bulle
         {
 
@@ -34,7 +44,11 @@ namespace tpIGL
             } while (perm);
 
         }
-        
+        /// <summary>
+        /// multiplie les valeurs de votre tableau en entré par un nombre choisi n
+        /// </summary>
+        /// <param name="vecteuratriter"></param>
+        /// <param name="n"></param>
         public void MUltipparn(int[] vecteuratriter, int n)
         {
             for (int i = 0; i < vecteuratriter.Length; i++)
@@ -42,7 +56,11 @@ namespace tpIGL
                 vecteuratriter[i] = vecteuratriter[i] * n;
             }
         }
-        
+        /// <summary>
+        /// la methode ADdn ajoute le nombre n a toute les cases de votre tableau
+        /// </summary>
+        /// <param name="vecteuratriter"></param>
+        /// <param name="n"></param>
         public void ADdn(int[] vecteuratriter, int n)
         {
             for (int i = 0; i < vecteuratriter.Length; i++)
@@ -50,7 +68,11 @@ namespace tpIGL
                 vecteuratriter[i] = vecteuratriter[i] + n;
             }
         }
-        
+        /// <summary>
+        /// la methode SOustrairen utilisée pour soustraire le nombre choisi n des valeurs de votre tableau
+        /// </summary>
+        /// <param name="vecteuratriter"></param>
+        /// <param name="n"></param>
         public void SOustrairen(int[] vecteuratriter, int n)
         {
             for (int i = 0; i < vecteuratriter.Length; i++)
@@ -58,7 +80,10 @@ namespace tpIGL
                 vecteuratriter[i] = vecteuratriter[i] - n;
             }
         }
-        
+        /// <summary>
+        /// Opposee vous donne les valeurs inverses de votre tableau en les multipliant par -1
+        /// </summary>
+        /// <param name="vecteuratriter"></param>
         public void Opposee(int[] vecteuratriter)
         {
             for (int i = 0; i < vecteuratriter.Length; i++)
@@ -66,12 +91,20 @@ namespace tpIGL
                 vecteuratriter[i] = vecteuratriter[i] * -1;
             }
         }
-    
 
-           
 
-         
-            public int[] Som2Vect(int[] vect1, int[] vect2)
+
+        /// <summary>
+        /// la methode som2vecteur somme deux tableaux a une dimension 
+        /// le resultat c est un tabeau ou chaque case et la somme des deux cases qui ont le meme indexe que cette derniere.
+        /// Une exeption exepTai est declenchée si vous essayez de sommer deux tableaux de taille differente 
+        /// et une autre exeption si vous mettez un vecteur nulle en entré
+        /// </summary>
+        /// <param name="vect1"></param>
+        /// <param name="vect2"></param>
+        /// <returns></returns>
+
+        public int[] Som2Vect(int[] vect1, int[] vect2)
             {
                 int[] som = null;
                 try
@@ -104,11 +137,15 @@ namespace tpIGL
                 return som;
             }
 
-            
-            public int[] reverse(int[] table)
+        /// <summary>
+        /// La methode reverse inverse les elements du tableau : les valeurs commencent par la fin 
+        /// </summary>
+        /// <param name="table"></param>
+        /// <returns></returns>
+        public int[] reverse(int[] table)
             {
                 int start, end;
-                for (start = 0, end = table.Length - 1; start < (table.Length / 2); start++, end--)
+                for (start = 0, end = table.Length - 1; start < (table.Length /2); start++, end--)
                 {
                     int permute = table[start];
                     table[start] = table[end];
@@ -117,8 +154,12 @@ namespace tpIGL
                 }
                 return table;
             }
-            
-            public void maxMinOfTable(int[] table)
+        /// <summary>
+        /// la methode maxMinOfTable donne la valeur maximale et minimale du tableau en entré
+        /// et initialise les parametres max et min de la classe VectorHelper
+        /// </summary>
+        /// <param name="table"></param>
+        public void maxMinOfTable(int[] table)
             {
                 this.max = table[0];
                 this.min = table[0];
@@ -128,13 +169,19 @@ namespace tpIGL
                     if (table[i] < this.min) this.min = table[i];
                 }
             }
-           
-            public int getMax()
+        ///<summary>
+        /// getMax retourne la valeur du parametre max
+        /// </summary>
+        /// <returns></returns>
+        public int getMax()
             {
                 return (this.max);
             }
-            
-            public int getMin()
+        /// <summary>
+        /// getMin retourne la valeur du parametre min
+        /// </summary>
+        /// <returns></returns>
+        public int getMin()
             {
                 return this.min;
             }

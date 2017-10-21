@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>tpIGL</name>
+    </assembly>
+    <members>
+        <member name="T:tpIGL.exepTai">
+            <summary>
+            cette exeption est declenchée quand l utilisateur essaye de sommer deux vecteurs qui n ont pas la meme taille
+            </summary>
+        </member>
+        <member name="T:tpIGL.Program">
+            <summary>
+            Program contient la methode main
+            </summary>
+        </member>
+        <member name="T:tpIGL.VectorHelper">
+            <summary>
+            la classe VectorHelper contient des methodes sur les vecteurs
+            et deux attributs le max d un vecteur et son min ces derniers seront calculés par la methode
+            maxMinOfTable
+            </summary>
+        </member>
+        <member name="M:tpIGL.VectorHelper.TRierVecteur(System.Int32[])">
+            <summary>
+             TRierVecteur : cette methode trie un tableau à 1 dimension en utilisant le trie par bulle
+            </summary>
+            <param name="vecteuratrier"></param>
+        </member>
+        <member name="M:tpIGL.VectorHelper.MUltipparn(System.Int32[],System.Int32)">
+            <summary>
+            multiplie les valeurs de votre tableau en entré par un nombre choisi n
+            </summary>
+            <param name="vecteuratriter"></param>
+            <param name="n"></param>
+        </member>
+        <member name="M:tpIGL.VectorHelper.ADdn(System.Int32[],System.Int32)">
+            <summary>
+            la methode ADdn ajoute le nombre n a toute les cases de votre tableau
+            </summary>
+            <param name="vecteuratriter"></param>
+            <param name="n"></param>
+        </member>
+        <member name="M:tpIGL.VectorHelper.SOustrairen(System.Int32[],System.Int32)">
+            <summary>
+            la methode SOustrairen utilisée pour soustraire le nombre choisi n des valeurs de votre tableau
+            </summary>
+            <param name="vecteuratriter"></param>
+            <param name="n"></param>
+        </member>
+        <member name="M:tpIGL.VectorHelper.Opposee(System.Int32[])">
+            <summary>
+            Opposee vous donne les valeurs inverses de votre tableau en les multipliant par -1
+            </summary>
+            <param name="vecteuratriter"></param>
+        </member>
+        <member name="M:tpIGL.VectorHelper.Som2Vect(System.Int32[],System.Int32[])">
+            <summary>
+            la methode som2vecteur somme deux tableaux a une dimension 
+            le resultat c est un tabeau ou chaque case et la somme des deux cases qui ont le meme indexe que cette derniere.
+            Une exeption exepTai est declenchée si vous essayez de sommer deux tableaux de taille differente 
+            et une autre exeption si vous mettez un vecteur nulle en entré
+            </summary>
+            <param name="vect1"></param>
+            <param name="vect2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:tpIGL.VectorHelper.reverse(System.Int32[])">
+            <summary>
+            La methode reverse inverse les elements du tableau : les valeurs commencent par la fin 
+            </summary>
+            <param name="table"></param>
+            <returns></returns>
+        </member>
+        <member name="M:tpIGL.VectorHelper.maxMinOfTable(System.Int32[])">
+            <summary>
+            la methode maxMinOfTable donne la valeur maximale et minimale du tableau en entré
+            et initialise les parametres max et min de la classe VectorHelper
+            </summary>
+            <param name="table"></param>
+        </member>
+        <member name="M:tpIGL.VectorHelper.getMax">
+            <summary>
+             getMax retourne la valeur du parametre max
+             </summary>
+             <returns></returns>
+        </member>
+        <member name="M:tpIGL.VectorHelper.getMin">
+            <summary>
+            getMin retourne la valeur du parametre min
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
