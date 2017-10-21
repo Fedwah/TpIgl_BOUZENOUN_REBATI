@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,14 +9,11 @@ namespace tpIGL
 {
     /// <summary>
     /// la classe VectorHelper contient des methodes sur les vecteurs
-    /// et deux attributs le max d un vecteur et son min ces derniers seront calculés par la methode
-    /// maxMinOfTable
     /// </summary>
-    class VectorHelper
+    public class VectorHelper
     {
         
-        private int max;
-        private int min;
+       
 
         /// <summary>
         ///  TRierVecteur : cette methode trie un tableau à 1 dimension en utilisant le trie par bulle
@@ -96,7 +94,7 @@ namespace tpIGL
 
         /// <summary>
         /// la methode som2vecteur somme deux tableaux a une dimension 
-        /// le resultat c est un tabeau ou chaque case et la somme des deux cases qui ont le meme indexe que cette derniere.
+        /// le resultat c est un tabeau ou chaque case est la somme des deux cases qui ont le meme indexe que cette derniere.
         /// Une exeption exepTai est declenchée si vous essayez de sommer deux tableaux de taille differente 
         /// et une autre exeption si vous mettez un vecteur nulle en entré
         /// </summary>
@@ -128,11 +126,11 @@ namespace tpIGL
                 }
                 catch (exepTai e)
                 {
-                    Console.WriteLine("Les deux tableaux n ont pas la meme taille, \nvous ne pouvez pas effectuer cette operation");
+                Console.WriteLine("Les deux tableaux n ont pas la meme taille, \nvous ne pouvez pas effectuer cette operation");
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine("un des tableaux n existe pas");
+                Console.WriteLine("un des tableaux n existe pas");
                 }
                 return som;
             }
@@ -156,37 +154,27 @@ namespace tpIGL
             }
         /// <summary>
         /// la methode maxMinOfTable donne la valeur maximale et minimale du tableau en entré
-        /// et initialise les parametres max et min de la classe VectorHelper
+        /// retourne un tableau de taille 2 ou la premiere case represente le max et la deuxième
+        /// le min
         /// </summary>
         /// <param name="table"></param>
-        public void maxMinOfTable(int[] table)
+        public int [] maxMinOfTable(int[] table)
             {
-                this.max = table[0];
-                this.min = table[0];
+                int max = table[0];
+                int min = table[0];
                 for (int i = 1; i < table.Length; i++)
                 {
-                    if (table[i] > this.max) this.max = table[i];
-                    if (table[i] < this.min) this.min = table[i];
+                    if (table[i] > max) max = table[i];
+                    if (table[i] < min) min = table[i];
                 }
+            int[] maxMin = new int[2] { max, min };
+            return maxMin;
             }
-        ///<summary>
-        /// getMax retourne la valeur du parametre max
-        /// </summary>
-        /// <returns></returns>
-        public int getMax()
-            {
-                return (this.max);
-            }
-        /// <summary>
-        /// getMin retourne la valeur du parametre min
-        /// </summary>
-        /// <returns></returns>
-        public int getMin()
-            {
-                return this.min;
-            }
+ 
         }
+
     }
+    
 
 
 
