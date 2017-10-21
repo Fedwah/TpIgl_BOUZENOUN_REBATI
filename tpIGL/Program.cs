@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace tpIGL
 {
+    /// <summary>
+    /// Program contient la methode main
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
