@@ -7,3 +7,4 @@ D:\Fedoua\tpIGL\tpIGL\bin\Debug\tpIGL.pdb
 D:\Fedoua\tpIGL\tpIGL\obj\Debug\tpIGL.exe
 D:\Fedoua\tpIGL\tpIGL\obj\Debug\tpIGL.pdb
 D:\Fedoua\tpIGL\tpIGL\obj\Debug\tpIGL.csprojResolveAssemblyReference.cache
+D:\Fedoua\tpIGL\tpIGL\bin\Debug\tpIGL.XML

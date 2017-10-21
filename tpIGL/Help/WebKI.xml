@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ADdn m&#233;thode" Url="html/c3274483-ce3e-51c2-de91-5786c355e7df.htm" />
+  <HelpKINode Title="exepTai classe">
+    <HelpKINode Title="exepTai Classe" Url="html/cc41e33b-f568-ad93-b238-f24cd98808af.htm" />
+    <HelpKINode Title="constructeur" Url="html/bfb45344-7287-c747-b7cc-5936984fe316.htm" />
+    <HelpKINode Title="&#224; propos exepTai classe" Url="html/cc41e33b-f568-ad93-b238-f24cd98808af.htm" />
+  </HelpKINode>
+  <HelpKINode Title="exepTai.exepTai constructeur" Url="html/bfb45344-7287-c747-b7cc-5936984fe316.htm" />
+  <HelpKINode Title="getMax m&#233;thode" Url="html/79dcc511-2869-eadb-38ce-866730b30a38.htm" />
+  <HelpKINode Title="getMin m&#233;thode" Url="html/d5780688-fd1b-b124-0a95-58b9aee96869.htm" />
+  <HelpKINode Title="Main m&#233;thode" Url="html/363100a3-cf10-1432-74b8-5d51f8d368f4.htm" />
+  <HelpKINode Title="max champ" Url="html/e203c064-d7ab-c952-19d2-9732c067f1ee.htm" />
+  <HelpKINode Title="maxMinOfTable m&#233;thode" Url="html/7d2e35e8-9482-d363-bb0e-30145123af2a.htm" />
+  <HelpKINode Title="min champ" Url="html/f85dff44-7f02-a1de-c946-e5152b619b2a.htm" />
+  <HelpKINode Title="MUltipparn m&#233;thode" Url="html/949e07df-6c7b-1eee-c193-4aa3e527853f.htm" />
+  <HelpKINode Title="Opposee m&#233;thode" Url="html/eeb3c43f-ab3e-e280-9a85-b935e869180a.htm" />
+  <HelpKINode Title="Program classe">
+    <HelpKINode Title="Program Classe" Url="html/e276ed1b-3ebe-d1dd-7fb2-2bb8a4e5d6e1.htm" />
+    <HelpKINode Title="constructeur" Url="html/c90d3977-d29f-68aa-0568-423b28b1b3b3.htm" />
+    <HelpKINode Title="m&#233;thodes" Url="html/2d26dcf3-dea0-34c6-995c-d5168d8eb0ed.htm" />
+    <HelpKINode Title="&#224; propos Program classe" Url="html/e276ed1b-3ebe-d1dd-7fb2-2bb8a4e5d6e1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.Main m&#233;thode" Url="html/363100a3-cf10-1432-74b8-5d51f8d368f4.htm" />
+  <HelpKINode Title="Program.Program constructeur" Url="html/c90d3977-d29f-68aa-0568-423b28b1b3b3.htm" />
+  <HelpKINode Title="reverse m&#233;thode" Url="html/0cc09ce1-a5b4-3197-38fd-a41f4a822863.htm" />
+  <HelpKINode Title="Som2Vect m&#233;thode" Url="html/631a4bcf-ae69-17dd-a7d2-02e8f321b150.htm" />
+  <HelpKINode Title="SOustrairen m&#233;thode" Url="html/71f56008-ae3e-1ae1-9eec-05badf029a42.htm" />
+  <HelpKINode Title="tpIGL espace de nom" Url="html/b9872e18-803a-8985-79e5-6dc5d0e39f72.htm" />
+  <HelpKINode Title="tpIGL.exepTai classe" Url="html/cc41e33b-f568-ad93-b238-f24cd98808af.htm" />
+  <HelpKINode Title="tpIGL.Program classe" Url="html/e276ed1b-3ebe-d1dd-7fb2-2bb8a4e5d6e1.htm" />
+  <HelpKINode Title="tpIGL.VectorHelper classe" Url="html/094778d0-944f-d9fe-203e-db003154e8fa.htm" />
+  <HelpKINode Title="TRierVecteur m&#233;thode" Url="html/379c0c4c-8364-3462-399a-38d4cd4466eb.htm" />
+  <HelpKINode Title="VectorHelper classe">
+    <HelpKINode Title="VectorHelper Classe" Url="html/094778d0-944f-d9fe-203e-db003154e8fa.htm" />
+    <HelpKINode Title="champs" Url="html/22615a31-f469-8e3a-73a5-42f5cd089882.htm" />
+    <HelpKINode Title="constructeur" Url="html/764b812f-a620-bb63-d867-9576a40cb290.htm" />
+    <HelpKINode Title="m&#233;thodes" Url="html/3677a66e-b094-51a0-4263-2ccc772de655.htm" />
+    <HelpKINode Title="&#224; propos VectorHelper classe" Url="html/094778d0-944f-d9fe-203e-db003154e8fa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VectorHelper.ADdn m&#233;thode" Url="html/c3274483-ce3e-51c2-de91-5786c355e7df.htm" />
+  <HelpKINode Title="VectorHelper.getMax m&#233;thode" Url="html/79dcc511-2869-eadb-38ce-866730b30a38.htm" />
+  <HelpKINode Title="VectorHelper.getMin m&#233;thode" Url="html/d5780688-fd1b-b124-0a95-58b9aee96869.htm" />
+  <HelpKINode Title="VectorHelper.max champ" Url="html/e203c064-d7ab-c952-19d2-9732c067f1ee.htm" />
+  <HelpKINode Title="VectorHelper.maxMinOfTable m&#233;thode" Url="html/7d2e35e8-9482-d363-bb0e-30145123af2a.htm" />
+  <HelpKINode Title="VectorHelper.min champ" Url="html/f85dff44-7f02-a1de-c946-e5152b619b2a.htm" />
+  <HelpKINode Title="VectorHelper.MUltipparn m&#233;thode" Url="html/949e07df-6c7b-1eee-c193-4aa3e527853f.htm" />
+  <HelpKINode Title="VectorHelper.Opposee m&#233;thode" Url="html/eeb3c43f-ab3e-e280-9a85-b935e869180a.htm" />
+  <HelpKINode Title="VectorHelper.reverse m&#233;thode" Url="html/0cc09ce1-a5b4-3197-38fd-a41f4a822863.htm" />
+  <HelpKINode Title="VectorHelper.Som2Vect m&#233;thode" Url="html/631a4bcf-ae69-17dd-a7d2-02e8f321b150.htm" />
+  <HelpKINode Title="VectorHelper.SOustrairen m&#233;thode" Url="html/71f56008-ae3e-1ae1-9eec-05badf029a42.htm" />
+  <HelpKINode Title="VectorHelper.TRierVecteur m&#233;thode" Url="html/379c0c4c-8364-3462-399a-38d4cd4466eb.htm" />
+  <HelpKINode Title="VectorHelper.VectorHelper constructeur" Url="html/764b812f-a620-bb63-d867-9576a40cb290.htm" />
+</HelpKI>
